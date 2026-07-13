@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+exports/*.json
+
+.vscode/settings.json
+
+.idea/
+
+*.log
