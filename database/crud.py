@@ -31,3 +31,53 @@ def count_crimes():
     collection = get_collection()
 
     return collection.count_documents({})
+
+def get_all_crimes():
+    """
+    Return all crime records from MongoDB.
+
+    Returns:
+        list: List of crime documents.
+    """
+
+    collection = get_collection()
+
+    return list(collection.find())
+
+def find_by_category(category):
+    """
+    Return all crime records matching a category.
+
+    Args:
+        category (str): Crime category.
+
+    Returns:
+        list: List of matching crime documents.
+    """
+    category = category.strip().lower()
+    collection = get_collection()
+
+    return list(
+        collection.find(
+            {"category": category}
+        )
+    )
+
+def count_by_category():
+
+    collection = get_collection()
+    pipeline = [
+        {
+            "$group": {
+                "_id": "$category",
+                "count": {"$sum": 1}
+            }
+        },
+        {
+            "$sort": {
+                "count": -1
+            }
+        }
+    ]
+
+    return list(collection.aggregate(pipeline))
