@@ -11,3 +11,5 @@ exports/*.json
 .idea/
 
 *.log
+
+test_connection.py
