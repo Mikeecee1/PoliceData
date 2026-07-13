@@ -21,7 +21,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
 # def main():
 
 #     print("Downloading crime data...\n")

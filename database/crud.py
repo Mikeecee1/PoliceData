@@ -20,3 +20,14 @@ def insert_crimes(crimes):
 
     return len(result.inserted_ids)
 
+def count_crimes():
+    """
+    Count the number of crime records in MongoDB.
+
+    Returns:
+        int: Number of documents in the collection.
+    """
+
+    collection = get_collection()
+
+    return collection.count_documents({})
