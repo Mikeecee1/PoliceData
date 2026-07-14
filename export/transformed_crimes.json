@@ -1,0 +1,6338 @@
+[
+    {
+        "_id": "6a552920877325eda5399858",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Temple Street",
+        "latitude": "51.451827",
+        "longitude": "-2.587552"
+    },
+    {
+        "_id": "6a552920877325eda5399859",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Winkworth Place",
+        "latitude": "51.464755",
+        "longitude": "-2.582536"
+    },
+    {
+        "_id": "6a552920877325eda539985a",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Michael's Hill",
+        "latitude": "51.459528",
+        "longitude": "-2.600850"
+    },
+    {
+        "_id": "6a552920877325eda539985b",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda539985c",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453976",
+        "longitude": "-2.594121"
+    },
+    {
+        "_id": "6a552920877325eda539985d",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Square",
+        "latitude": "51.455456",
+        "longitude": "-2.605862"
+    },
+    {
+        "_id": "6a552920877325eda539985e",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pipe Lane",
+        "latitude": "51.454306",
+        "longitude": "-2.598651"
+    },
+    {
+        "_id": "6a552920877325eda539985f",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.454985",
+        "longitude": "-2.588801"
+    },
+    {
+        "_id": "6a552920877325eda5399860",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.449755",
+        "longitude": "-2.602477"
+    },
+    {
+        "_id": "6a552920877325eda5399861",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Little King Street",
+        "latitude": "51.451608",
+        "longitude": "-2.593392"
+    },
+    {
+        "_id": "6a552920877325eda5399862",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob Street",
+        "latitude": "51.455117",
+        "longitude": "-2.582197"
+    },
+    {
+        "_id": "6a552920877325eda5399863",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hayes Close",
+        "latitude": "51.457638",
+        "longitude": "-2.574270"
+    },
+    {
+        "_id": "6a552920877325eda5399864",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Callowhill Court",
+        "latitude": "51.458210",
+        "longitude": "-2.587749"
+    },
+    {
+        "_id": "6a552920877325eda5399865",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.454404",
+        "longitude": "-2.593529"
+    },
+    {
+        "_id": "6a552920877325eda5399866",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mitchell Lane",
+        "latitude": "51.450971",
+        "longitude": "-2.587872"
+    },
+    {
+        "_id": "6a552920877325eda5399867",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West Street",
+        "latitude": "51.456972",
+        "longitude": "-2.578090"
+    },
+    {
+        "_id": "6a552920877325eda5399868",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399869",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Street",
+        "latitude": "51.451111",
+        "longitude": "-2.590335"
+    },
+    {
+        "_id": "6a552920877325eda539986a",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Montague Hill",
+        "latitude": "51.461658",
+        "longitude": "-2.595725"
+    },
+    {
+        "_id": "6a552920877325eda539986b",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Badminton Road",
+        "latitude": "51.465607",
+        "longitude": "-2.579178"
+    },
+    {
+        "_id": "6a552920877325eda539986c",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Kingsland Road Bridge",
+        "latitude": "51.453433",
+        "longitude": "-2.575584"
+    },
+    {
+        "_id": "6a552920877325eda539986d",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Place",
+        "latitude": "51.456967",
+        "longitude": "-2.609164"
+    },
+    {
+        "_id": "6a552920877325eda539986e",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Further/higher Educational Building",
+        "latitude": "51.455178",
+        "longitude": "-2.584738"
+    },
+    {
+        "_id": "6a552920877325eda539986f",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399870",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mark Lane",
+        "latitude": "51.452625",
+        "longitude": "-2.598629"
+    },
+    {
+        "_id": "6a552920877325eda5399871",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.456818",
+        "longitude": "-2.606787"
+    },
+    {
+        "_id": "6a552920877325eda5399872",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.454404",
+        "longitude": "-2.593529"
+    },
+    {
+        "_id": "6a552920877325eda5399873",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399874",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lombard Street",
+        "latitude": "51.443005",
+        "longitude": "-2.596618"
+    },
+    {
+        "_id": "6a552920877325eda5399875",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Backfields Lane",
+        "latitude": "51.462298",
+        "longitude": "-2.588349"
+    },
+    {
+        "_id": "6a552920877325eda5399876",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399877",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Deanery Road",
+        "latitude": "51.451595",
+        "longitude": "-2.603005"
+    },
+    {
+        "_id": "6a552920877325eda5399878",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Michael's Hill",
+        "latitude": "51.459528",
+        "longitude": "-2.600850"
+    },
+    {
+        "_id": "6a552920877325eda5399879",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Place",
+        "latitude": "51.456967",
+        "longitude": "-2.609164"
+    },
+    {
+        "_id": "6a552920877325eda539987a",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.458613",
+        "longitude": "-2.595196"
+    },
+    {
+        "_id": "6a552920877325eda539987b",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda539987c",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armada Place",
+        "latitude": "51.463483",
+        "longitude": "-2.590566"
+    },
+    {
+        "_id": "6a552920877325eda539987d",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452546",
+        "longitude": "-2.583920"
+    },
+    {
+        "_id": "6a552920877325eda539987e",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob's Wells Road",
+        "latitude": "51.452471",
+        "longitude": "-2.609205"
+    },
+    {
+        "_id": "6a552920877325eda539987f",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.456187",
+        "longitude": "-2.591192"
+    },
+    {
+        "_id": "6a552920877325eda5399880",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harbour Way",
+        "latitude": "51.448469",
+        "longitude": "-2.602460"
+    },
+    {
+        "_id": "6a552920877325eda5399881",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clark Street",
+        "latitude": "51.461770",
+        "longitude": "-2.573343"
+    },
+    {
+        "_id": "6a552920877325eda5399882",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Callowhill Court",
+        "latitude": "51.458210",
+        "longitude": "-2.587749"
+    },
+    {
+        "_id": "6a552920877325eda5399883",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mill Avenue",
+        "latitude": "51.450430",
+        "longitude": "-2.593549"
+    },
+    {
+        "_id": "6a552920877325eda5399884",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawfords Gate",
+        "latitude": "51.458707",
+        "longitude": "-2.578169"
+    },
+    {
+        "_id": "6a552920877325eda5399885",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Penn Street",
+        "latitude": "51.457668",
+        "longitude": "-2.586303"
+    },
+    {
+        "_id": "6a552920877325eda5399886",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawfords Gate",
+        "latitude": "51.458707",
+        "longitude": "-2.578169"
+    },
+    {
+        "_id": "6a552920877325eda5399887",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near North Street",
+        "latitude": "51.460415",
+        "longitude": "-2.590872"
+    },
+    {
+        "_id": "6a552920877325eda5399888",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Upper York Street",
+        "latitude": "51.461422",
+        "longitude": "-2.589115"
+    },
+    {
+        "_id": "6a552920877325eda5399889",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brook Hill",
+        "latitude": "51.467346",
+        "longitude": "-2.584080"
+    },
+    {
+        "_id": "6a552920877325eda539988a",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Anvil Street",
+        "latitude": "51.452363",
+        "longitude": "-2.579068"
+    },
+    {
+        "_id": "6a552920877325eda539988b",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Osborne Road",
+        "latitude": "51.445331",
+        "longitude": "-2.602505"
+    },
+    {
+        "_id": "6a552920877325eda539988c",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Somerset Square",
+        "latitude": "51.447220",
+        "longitude": "-2.588054"
+    },
+    {
+        "_id": "6a552920877325eda539988d",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda539988e",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Old Bread Street",
+        "latitude": "51.453205",
+        "longitude": "-2.581683"
+    },
+    {
+        "_id": "6a552920877325eda539988f",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Mews",
+        "latitude": "51.465556",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399890",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Colston Mews",
+        "latitude": "51.466835",
+        "longitude": "-2.590897"
+    },
+    {
+        "_id": "6a552920877325eda5399891",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399892",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.454404",
+        "longitude": "-2.593529"
+    },
+    {
+        "_id": "6a552920877325eda5399893",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.454404",
+        "longitude": "-2.593529"
+    },
+    {
+        "_id": "6a552920877325eda5399894",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399895",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near John Street",
+        "latitude": "51.456002",
+        "longitude": "-2.593996"
+    },
+    {
+        "_id": "6a552920877325eda5399896",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399897",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hepburn Road",
+        "latitude": "51.463493",
+        "longitude": "-2.588422"
+    },
+    {
+        "_id": "6a552920877325eda5399898",
+        "category": "burglary",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Walker Close",
+        "latitude": "51.459514",
+        "longitude": "-2.569515"
+    },
+    {
+        "_id": "6a552920877325eda5399bb2",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.452504",
+        "longitude": "-2.598969"
+    },
+    {
+        "_id": "6a552920877325eda5399bb3",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower College Street",
+        "latitude": "51.450879",
+        "longitude": "-2.604118"
+    },
+    {
+        "_id": "6a552920877325eda5399bb4",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Claremont Street",
+        "latitude": "51.464691",
+        "longitude": "-2.571796"
+    },
+    {
+        "_id": "6a552920877325eda5399bb5",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Elmgrove Park",
+        "latitude": "51.467555",
+        "longitude": "-2.596046"
+    },
+    {
+        "_id": "6a552920877325eda5399bb6",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399bb7",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Place",
+        "latitude": "51.451708",
+        "longitude": "-2.605453"
+    },
+    {
+        "_id": "6a552920877325eda5399bb8",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.452504",
+        "longitude": "-2.598969"
+    },
+    {
+        "_id": "6a552920877325eda5399bb9",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Oxford Street",
+        "latitude": "51.442329",
+        "longitude": "-2.578984"
+    },
+    {
+        "_id": "6a552920877325eda5399bba",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Thomas Street",
+        "latitude": "51.451227",
+        "longitude": "-2.588681"
+    },
+    {
+        "_id": "6a552920877325eda5399bbb",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399bbc",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.457903",
+        "longitude": "-2.566748"
+    },
+    {
+        "_id": "6a552920877325eda5399bbd",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.445212",
+        "longitude": "-2.592187"
+    },
+    {
+        "_id": "6a552920877325eda5399bbe",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stevens Crescent",
+        "latitude": "51.441637",
+        "longitude": "-2.580702"
+    },
+    {
+        "_id": "6a552920877325eda5399bbf",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Lane",
+        "latitude": "51.465529",
+        "longitude": "-2.589542"
+    },
+    {
+        "_id": "6a552920877325eda5399bc0",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399bc1",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399bc2",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Easton Way",
+        "latitude": "51.462497",
+        "longitude": "-2.571653"
+    },
+    {
+        "_id": "6a552920877325eda5399bc3",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399bc4",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nelson Street",
+        "latitude": "51.456619",
+        "longitude": "-2.593011"
+    },
+    {
+        "_id": "6a552920877325eda5399bc5",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.457287",
+        "longitude": "-2.594214"
+    },
+    {
+        "_id": "6a552920877325eda5399bc6",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wade Street",
+        "latitude": "51.459066",
+        "longitude": "-2.580088"
+    },
+    {
+        "_id": "6a552920877325eda5399bc7",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Great George Street",
+        "latitude": "51.458558",
+        "longitude": "-2.581003"
+    },
+    {
+        "_id": "6a552920877325eda5399bc8",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.452504",
+        "longitude": "-2.598969"
+    },
+    {
+        "_id": "6a552920877325eda5399bc9",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Walker Close",
+        "latitude": "51.459514",
+        "longitude": "-2.569515"
+    },
+    {
+        "_id": "6a552920877325eda5399bca",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near New Walls",
+        "latitude": "51.442975",
+        "longitude": "-2.577481"
+    },
+    {
+        "_id": "6a552920877325eda5399bcb",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.457287",
+        "longitude": "-2.594214"
+    },
+    {
+        "_id": "6a552920877325eda5399bcc",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clark Street",
+        "latitude": "51.461770",
+        "longitude": "-2.573343"
+    },
+    {
+        "_id": "6a552920877325eda5399bcd",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pountney Drive",
+        "latitude": "51.460611",
+        "longitude": "-2.569413"
+    },
+    {
+        "_id": "6a552920877325eda5399bce",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle South",
+        "latitude": "51.456044",
+        "longitude": "-2.606978"
+    },
+    {
+        "_id": "6a552920877325eda5399bcf",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wade Street",
+        "latitude": "51.459066",
+        "longitude": "-2.580088"
+    },
+    {
+        "_id": "6a552920877325eda5399bd0",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Castle Street",
+        "latitude": "51.456477",
+        "longitude": "-2.585482"
+    },
+    {
+        "_id": "6a552920877325eda5399bd1",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.456703",
+        "longitude": "-2.585081"
+    },
+    {
+        "_id": "6a552920877325eda5399bd2",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bathurst Parade",
+        "latitude": "51.446894",
+        "longitude": "-2.595719"
+    },
+    {
+        "_id": "6a552920877325eda5399bd3",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399bd4",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Montpelier",
+        "latitude": "51.468305",
+        "longitude": "-2.588181"
+    },
+    {
+        "_id": "6a552920877325eda5399bd5",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newfoundland Way",
+        "latitude": "51.463201",
+        "longitude": "-2.578428"
+    },
+    {
+        "_id": "6a552920877325eda5399bd6",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armidale Avenue",
+        "latitude": "51.466366",
+        "longitude": "-2.589380"
+    },
+    {
+        "_id": "6a552920877325eda5399bd7",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brigstocke Road",
+        "latitude": "51.463500",
+        "longitude": "-2.587169"
+    },
+    {
+        "_id": "6a552920877325eda5399bd8",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Andrew's Road",
+        "latitude": "51.468359",
+        "longitude": "-2.586382"
+    },
+    {
+        "_id": "6a552920877325eda5399bd9",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cotham Park North",
+        "latitude": "51.466633",
+        "longitude": "-2.598813"
+    },
+    {
+        "_id": "6a552920877325eda5399bda",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.457287",
+        "longitude": "-2.594214"
+    },
+    {
+        "_id": "6a552920877325eda5399bdb",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cotham Lawn Road",
+        "latitude": "51.463719",
+        "longitude": "-2.602373"
+    },
+    {
+        "_id": "6a552920877325eda5399bdc",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bath Buildings",
+        "latitude": "51.466185",
+        "longitude": "-2.589651"
+    },
+    {
+        "_id": "6a552920877325eda5399bdd",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West End",
+        "latitude": "51.445446",
+        "longitude": "-2.601068"
+    },
+    {
+        "_id": "6a552920877325eda5399bde",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Portwall Lane",
+        "latitude": "51.449331",
+        "longitude": "-2.588470"
+    },
+    {
+        "_id": "6a552920877325eda5399bdf",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armada Place",
+        "latitude": "51.463483",
+        "longitude": "-2.590566"
+    },
+    {
+        "_id": "6a552920877325eda5399be0",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Morley Street",
+        "latitude": "51.467473",
+        "longitude": "-2.578223"
+    },
+    {
+        "_id": "6a552920877325eda5399be1",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Narrow Quay",
+        "latitude": "51.450176",
+        "longitude": "-2.597431"
+    },
+    {
+        "_id": "6a552920877325eda5399be2",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Matthew's Avenue",
+        "latitude": "51.463806",
+        "longitude": "-2.594083"
+    },
+    {
+        "_id": "6a552920877325eda5399be3",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452774",
+        "longitude": "-2.592299"
+    },
+    {
+        "_id": "6a552920877325eda5399be4",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Road",
+        "latitude": "51.467301",
+        "longitude": "-2.585735"
+    },
+    {
+        "_id": "6a552920877325eda5399be5",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.457287",
+        "longitude": "-2.594214"
+    },
+    {
+        "_id": "6a552920877325eda5399be6",
+        "category": "vehicle-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West Street",
+        "latitude": "51.456972",
+        "longitude": "-2.578090"
+    },
+    {
+        "_id": "6a552920877325eda5399be7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Argyle Road",
+        "latitude": "51.462730",
+        "longitude": "-2.586396"
+    },
+    {
+        "_id": "6a552920877325eda5399be8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliffe Parade West",
+        "latitude": "51.448244",
+        "longitude": "-2.593636"
+    },
+    {
+        "_id": "6a552920877325eda5399be9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.454485",
+        "longitude": "-2.602338"
+    },
+    {
+        "_id": "6a552920877325eda5399bea",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Argyle Road",
+        "latitude": "51.462730",
+        "longitude": "-2.586396"
+    },
+    {
+        "_id": "6a552920877325eda5399beb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Sweetman Place",
+        "latitude": "51.452570",
+        "longitude": "-2.579142"
+    },
+    {
+        "_id": "6a552920877325eda5399bec",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399bed",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Asher Lane",
+        "latitude": "51.456776",
+        "longitude": "-2.583197"
+    },
+    {
+        "_id": "6a552920877325eda5399bee",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399bef",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Lamb Street",
+        "latitude": "51.450666",
+        "longitude": "-2.603583"
+    },
+    {
+        "_id": "6a552920877325eda5399bf0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.456187",
+        "longitude": "-2.591192"
+    },
+    {
+        "_id": "6a552920877325eda5399bf1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399bf2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399bf3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridge Street",
+        "latitude": "51.454244",
+        "longitude": "-2.591454"
+    },
+    {
+        "_id": "6a552920877325eda5399bf4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Leicester Street",
+        "latitude": "51.441375",
+        "longitude": "-2.597029"
+    },
+    {
+        "_id": "6a552920877325eda5399bf5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Old Bread Street",
+        "latitude": "51.453205",
+        "longitude": "-2.581683"
+    },
+    {
+        "_id": "6a552920877325eda5399bf6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399bf7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Three Queens Lane",
+        "latitude": "51.450638",
+        "longitude": "-2.589695"
+    },
+    {
+        "_id": "6a552920877325eda5399bf8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Colston Parade",
+        "latitude": "51.447724",
+        "longitude": "-2.589874"
+    },
+    {
+        "_id": "6a552920877325eda5399bf9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Old Market Street",
+        "latitude": "51.456118",
+        "longitude": "-2.581562"
+    },
+    {
+        "_id": "6a552920877325eda5399bfa",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399bfb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399bfc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453850",
+        "longitude": "-2.592874"
+    },
+    {
+        "_id": "6a552920877325eda5399bfd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Culver Street",
+        "latitude": "51.453952",
+        "longitude": "-2.601093"
+    },
+    {
+        "_id": "6a552920877325eda5399bfe",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Culver Street",
+        "latitude": "51.453952",
+        "longitude": "-2.601093"
+    },
+    {
+        "_id": "6a552920877325eda5399bff",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newmarket Avenue",
+        "latitude": "51.455583",
+        "longitude": "-2.593415"
+    },
+    {
+        "_id": "6a552920877325eda5399c00",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399c01",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Backs",
+        "latitude": "51.450199",
+        "longitude": "-2.591129"
+    },
+    {
+        "_id": "6a552920877325eda5399c02",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399c03",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399c04",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Little King Street",
+        "latitude": "51.451608",
+        "longitude": "-2.593392"
+    },
+    {
+        "_id": "6a552920877325eda5399c05",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Thomas Street",
+        "latitude": "51.462846",
+        "longitude": "-2.590141"
+    },
+    {
+        "_id": "6a552920877325eda5399c06",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399c07",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Little King Street",
+        "latitude": "51.451608",
+        "longitude": "-2.593392"
+    },
+    {
+        "_id": "6a552920877325eda5399c08",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399c09",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Church Lane",
+        "latitude": "51.451687",
+        "longitude": "-2.586744"
+    },
+    {
+        "_id": "6a552920877325eda5399c0a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452546",
+        "longitude": "-2.583920"
+    },
+    {
+        "_id": "6a552920877325eda5399c0b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399c0c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St George's Road",
+        "latitude": "51.452104",
+        "longitude": "-2.603746"
+    },
+    {
+        "_id": "6a552920877325eda5399c0d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.449712",
+        "longitude": "-2.580617"
+    },
+    {
+        "_id": "6a552920877325eda5399c0e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Montgomery Street",
+        "latitude": "51.441042",
+        "longitude": "-2.582809"
+    },
+    {
+        "_id": "6a552920877325eda5399c0f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Montgomery Street",
+        "latitude": "51.441042",
+        "longitude": "-2.582809"
+    },
+    {
+        "_id": "6a552920877325eda5399c10",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399c11",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ashfield Place",
+        "latitude": "51.466546",
+        "longitude": "-2.580284"
+    },
+    {
+        "_id": "6a552920877325eda5399c12",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399c13",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399c14",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399c15",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.445212",
+        "longitude": "-2.592187"
+    },
+    {
+        "_id": "6a552920877325eda5399c16",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399c17",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dalton Square",
+        "latitude": "51.462635",
+        "longitude": "-2.591102"
+    },
+    {
+        "_id": "6a552920877325eda5399c18",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Conference/exhibition Centre",
+        "latitude": "51.450479",
+        "longitude": "-2.581908"
+    },
+    {
+        "_id": "6a552920877325eda5399c19",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c1a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Victoria Gardens",
+        "latitude": "51.465583",
+        "longitude": "-2.594898"
+    },
+    {
+        "_id": "6a552920877325eda5399c1b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.454985",
+        "longitude": "-2.588801"
+    },
+    {
+        "_id": "6a552920877325eda5399c1c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399c1d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.453567",
+        "longitude": "-2.586596"
+    },
+    {
+        "_id": "6a552920877325eda5399c1e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Rupert Street",
+        "latitude": "51.456844",
+        "longitude": "-2.594626"
+    },
+    {
+        "_id": "6a552920877325eda5399c1f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399c20",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Gay Street",
+        "latitude": "51.461976",
+        "longitude": "-2.591554"
+    },
+    {
+        "_id": "6a552920877325eda5399c21",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near A38",
+        "latitude": "51.456892",
+        "longitude": "-2.595792"
+    },
+    {
+        "_id": "6a552920877325eda5399c22",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridge Street",
+        "latitude": "51.454244",
+        "longitude": "-2.591454"
+    },
+    {
+        "_id": "6a552920877325eda5399c23",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c24",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Woodmancote Road",
+        "latitude": "51.465759",
+        "longitude": "-2.586766"
+    },
+    {
+        "_id": "6a552920877325eda5399c25",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.443759",
+        "longitude": "-2.595117"
+    },
+    {
+        "_id": "6a552920877325eda5399c26",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newmarket Avenue",
+        "latitude": "51.455583",
+        "longitude": "-2.593415"
+    },
+    {
+        "_id": "6a552920877325eda5399c27",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Thomas Street North",
+        "latitude": "51.463861",
+        "longitude": "-2.592212"
+    },
+    {
+        "_id": "6a552920877325eda5399c28",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Guinea Street",
+        "latitude": "51.447360",
+        "longitude": "-2.592401"
+    },
+    {
+        "_id": "6a552920877325eda5399c29",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399c2a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399c2b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399c2c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399c2d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Backfields Lane",
+        "latitude": "51.462298",
+        "longitude": "-2.588349"
+    },
+    {
+        "_id": "6a552920877325eda5399c2e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c2f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Lamb Street",
+        "latitude": "51.450666",
+        "longitude": "-2.603583"
+    },
+    {
+        "_id": "6a552920877325eda5399c30",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c31",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Backs",
+        "latitude": "51.450199",
+        "longitude": "-2.591129"
+    },
+    {
+        "_id": "6a552920877325eda5399c32",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c33",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dean Crescent",
+        "latitude": "51.443537",
+        "longitude": "-2.598021"
+    },
+    {
+        "_id": "6a552920877325eda5399c34",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bedminster Parade",
+        "latitude": "51.444172",
+        "longitude": "-2.593396"
+    },
+    {
+        "_id": "6a552920877325eda5399c35",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Unity Street",
+        "latitude": "51.453161",
+        "longitude": "-2.600924"
+    },
+    {
+        "_id": "6a552920877325eda5399c36",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399c37",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Burnell Drive",
+        "latitude": "51.463520",
+        "longitude": "-2.583139"
+    },
+    {
+        "_id": "6a552920877325eda5399c38",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399c39",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399c3a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliffe Parade West",
+        "latitude": "51.448244",
+        "longitude": "-2.593636"
+    },
+    {
+        "_id": "6a552920877325eda5399c3b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399c3c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stokes Croft",
+        "latitude": "51.462667",
+        "longitude": "-2.590023"
+    },
+    {
+        "_id": "6a552920877325eda5399c3d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Callowhill Court",
+        "latitude": "51.458210",
+        "longitude": "-2.587749"
+    },
+    {
+        "_id": "6a552920877325eda5399c3e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.456818",
+        "longitude": "-2.606787"
+    },
+    {
+        "_id": "6a552920877325eda5399c3f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Beaufort Street",
+        "latitude": "51.460572",
+        "longitude": "-2.573702"
+    },
+    {
+        "_id": "6a552920877325eda5399c40",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tyler Street",
+        "latitude": "51.452313",
+        "longitude": "-2.576563"
+    },
+    {
+        "_id": "6a552920877325eda5399c41",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399c42",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brunswick Square",
+        "latitude": "51.460369",
+        "longitude": "-2.587532"
+    },
+    {
+        "_id": "6a552920877325eda5399c43",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Trenchard Street",
+        "latitude": "51.454954",
+        "longitude": "-2.598501"
+    },
+    {
+        "_id": "6a552920877325eda5399c44",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clarence Place",
+        "latitude": "51.461240",
+        "longitude": "-2.601880"
+    },
+    {
+        "_id": "6a552920877325eda5399c45",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399c46",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stokes Croft",
+        "latitude": "51.462667",
+        "longitude": "-2.590023"
+    },
+    {
+        "_id": "6a552920877325eda5399c47",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nelson Street",
+        "latitude": "51.456619",
+        "longitude": "-2.593011"
+    },
+    {
+        "_id": "6a552920877325eda5399c48",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399c49",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Barossa Place",
+        "latitude": "51.447804",
+        "longitude": "-2.593501"
+    },
+    {
+        "_id": "6a552920877325eda5399c4a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armada Place",
+        "latitude": "51.463483",
+        "longitude": "-2.590566"
+    },
+    {
+        "_id": "6a552920877325eda5399c4b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Portland Square",
+        "latitude": "51.460826",
+        "longitude": "-2.586027"
+    },
+    {
+        "_id": "6a552920877325eda5399c4c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399c4d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob Street",
+        "latitude": "51.455117",
+        "longitude": "-2.582197"
+    },
+    {
+        "_id": "6a552920877325eda5399c4e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle South",
+        "latitude": "51.456044",
+        "longitude": "-2.606978"
+    },
+    {
+        "_id": "6a552920877325eda5399c4f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridewell Street",
+        "latitude": "51.457175",
+        "longitude": "-2.593248"
+    },
+    {
+        "_id": "6a552920877325eda5399c50",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Matthew's Road",
+        "latitude": "51.462914",
+        "longitude": "-2.596317"
+    },
+    {
+        "_id": "6a552920877325eda5399c51",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Angers Road",
+        "latitude": "51.442555",
+        "longitude": "-2.576915"
+    },
+    {
+        "_id": "6a552920877325eda5399c52",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Street",
+        "latitude": "51.454044",
+        "longitude": "-2.595309"
+    },
+    {
+        "_id": "6a552920877325eda5399c53",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399c54",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399c55",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mark Lane",
+        "latitude": "51.452625",
+        "longitude": "-2.598629"
+    },
+    {
+        "_id": "6a552920877325eda5399c56",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tyler Street",
+        "latitude": "51.452313",
+        "longitude": "-2.576563"
+    },
+    {
+        "_id": "6a552920877325eda5399c57",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399c58",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399c59",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399c5a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.459732",
+        "longitude": "-2.588963"
+    },
+    {
+        "_id": "6a552920877325eda5399c5b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399c5c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Thomas Street North",
+        "latitude": "51.463861",
+        "longitude": "-2.592212"
+    },
+    {
+        "_id": "6a552920877325eda5399c5d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near East Street Mews",
+        "latitude": "51.442598",
+        "longitude": "-2.595318"
+    },
+    {
+        "_id": "6a552920877325eda5399c5e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399c5f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Argyle Road",
+        "latitude": "51.462730",
+        "longitude": "-2.586396"
+    },
+    {
+        "_id": "6a552920877325eda5399c60",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Argyle Road",
+        "latitude": "51.462730",
+        "longitude": "-2.586396"
+    },
+    {
+        "_id": "6a552920877325eda5399c61",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mitchell Court",
+        "latitude": "51.451510",
+        "longitude": "-2.587965"
+    },
+    {
+        "_id": "6a552920877325eda5399c62",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399c63",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ashfield Place",
+        "latitude": "51.466546",
+        "longitude": "-2.580284"
+    },
+    {
+        "_id": "6a552920877325eda5399c64",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452546",
+        "longitude": "-2.583920"
+    },
+    {
+        "_id": "6a552920877325eda5399c65",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399c66",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c67",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399c68",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near William Street",
+        "latitude": "51.443302",
+        "longitude": "-2.580493"
+    },
+    {
+        "_id": "6a552920877325eda5399c69",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399c6a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Great Ann Street",
+        "latitude": "51.457993",
+        "longitude": "-2.580665"
+    },
+    {
+        "_id": "6a552920877325eda5399c6b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Supermarket",
+        "latitude": "51.456818",
+        "longitude": "-2.606787"
+    },
+    {
+        "_id": "6a552920877325eda5399c6c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Eugene Street",
+        "latitude": "51.460298",
+        "longitude": "-2.594469"
+    },
+    {
+        "_id": "6a552920877325eda5399c6d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c6e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399c6f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399c70",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399c71",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399c72",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399c73",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hassell Drive",
+        "latitude": "51.457339",
+        "longitude": "-2.572884"
+    },
+    {
+        "_id": "6a552920877325eda5399c74",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399c75",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob Street",
+        "latitude": "51.455117",
+        "longitude": "-2.582197"
+    },
+    {
+        "_id": "6a552920877325eda5399c76",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Street",
+        "latitude": "51.454044",
+        "longitude": "-2.595309"
+    },
+    {
+        "_id": "6a552920877325eda5399c77",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399c78",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399c79",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c7a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399c7b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399c7c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Callowhill Court",
+        "latitude": "51.458210",
+        "longitude": "-2.587749"
+    },
+    {
+        "_id": "6a552920877325eda5399c7d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.456703",
+        "longitude": "-2.585081"
+    },
+    {
+        "_id": "6a552920877325eda5399c7e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399c7f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399c80",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wade Street",
+        "latitude": "51.459066",
+        "longitude": "-2.580088"
+    },
+    {
+        "_id": "6a552920877325eda5399c81",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399c82",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c83",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hillgrove Street",
+        "latitude": "51.462213",
+        "longitude": "-2.591010"
+    },
+    {
+        "_id": "6a552920877325eda5399c84",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Gwyn Street",
+        "latitude": "51.463902",
+        "longitude": "-2.587577"
+    },
+    {
+        "_id": "6a552920877325eda5399c85",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399c86",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453850",
+        "longitude": "-2.592874"
+    },
+    {
+        "_id": "6a552920877325eda5399c87",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Road",
+        "latitude": "51.445118",
+        "longitude": "-2.585854"
+    },
+    {
+        "_id": "6a552920877325eda5399c88",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shaw Close",
+        "latitude": "51.461527",
+        "longitude": "-2.567769"
+    },
+    {
+        "_id": "6a552920877325eda5399c89",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.441681",
+        "longitude": "-2.579048"
+    },
+    {
+        "_id": "6a552920877325eda5399c8a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399c8b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399c8c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Magdalene Place",
+        "latitude": "51.467488",
+        "longitude": "-2.578914"
+    },
+    {
+        "_id": "6a552920877325eda5399c8d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399c8e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c8f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399c90",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399c91",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399c92",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Avenue",
+        "latitude": "51.454121",
+        "longitude": "-2.596159"
+    },
+    {
+        "_id": "6a552920877325eda5399c93",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399c94",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Further/higher Educational Building",
+        "latitude": "51.461372",
+        "longitude": "-2.591741"
+    },
+    {
+        "_id": "6a552920877325eda5399c95",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wellington Lane",
+        "latitude": "51.464894",
+        "longitude": "-2.588900"
+    },
+    {
+        "_id": "6a552920877325eda5399c96",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399c97",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridewell Street",
+        "latitude": "51.457175",
+        "longitude": "-2.593248"
+    },
+    {
+        "_id": "6a552920877325eda5399c98",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hassell Drive",
+        "latitude": "51.457339",
+        "longitude": "-2.572884"
+    },
+    {
+        "_id": "6a552920877325eda5399c99",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Old Market Street",
+        "latitude": "51.456118",
+        "longitude": "-2.581562"
+    },
+    {
+        "_id": "6a552920877325eda5399c9a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Rupert Street",
+        "latitude": "51.456844",
+        "longitude": "-2.594626"
+    },
+    {
+        "_id": "6a552920877325eda5399c9b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399c9c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newmarket Avenue",
+        "latitude": "51.455583",
+        "longitude": "-2.593415"
+    },
+    {
+        "_id": "6a552920877325eda5399c9d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399c9e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Spring Street Place",
+        "latitude": "51.444722",
+        "longitude": "-2.585907"
+    },
+    {
+        "_id": "6a552920877325eda5399c9f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399ca0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pountney Drive",
+        "latitude": "51.460611",
+        "longitude": "-2.569413"
+    },
+    {
+        "_id": "6a552920877325eda5399ca1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399ca2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West Grove",
+        "latitude": "51.466388",
+        "longitude": "-2.583190"
+    },
+    {
+        "_id": "6a552920877325eda5399ca3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Franklyn Lane",
+        "latitude": "51.465502",
+        "longitude": "-2.580573"
+    },
+    {
+        "_id": "6a552920877325eda5399ca4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399ca5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Place",
+        "latitude": "51.456967",
+        "longitude": "-2.609164"
+    },
+    {
+        "_id": "6a552920877325eda5399ca6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Unity Street",
+        "latitude": "51.453161",
+        "longitude": "-2.600924"
+    },
+    {
+        "_id": "6a552920877325eda5399ca7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Walker Close",
+        "latitude": "51.459514",
+        "longitude": "-2.569515"
+    },
+    {
+        "_id": "6a552920877325eda5399ca8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399ca9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399caa",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452546",
+        "longitude": "-2.583920"
+    },
+    {
+        "_id": "6a552920877325eda5399cab",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Barossa Place",
+        "latitude": "51.447804",
+        "longitude": "-2.593501"
+    },
+    {
+        "_id": "6a552920877325eda5399cac",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dalton Square",
+        "latitude": "51.462635",
+        "longitude": "-2.591102"
+    },
+    {
+        "_id": "6a552920877325eda5399cad",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399cae",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399caf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399cb0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West Street",
+        "latitude": "51.456972",
+        "longitude": "-2.578090"
+    },
+    {
+        "_id": "6a552920877325eda5399cb1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newgate",
+        "latitude": "51.456071",
+        "longitude": "-2.589175"
+    },
+    {
+        "_id": "6a552920877325eda5399cb2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St John's Road",
+        "latitude": "51.444390",
+        "longitude": "-2.596464"
+    },
+    {
+        "_id": "6a552920877325eda5399cb3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399cb4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399cb5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399cb6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pountney Drive",
+        "latitude": "51.460611",
+        "longitude": "-2.569413"
+    },
+    {
+        "_id": "6a552920877325eda5399cb7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399cb8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Andrew's Road",
+        "latitude": "51.468359",
+        "longitude": "-2.586382"
+    },
+    {
+        "_id": "6a552920877325eda5399cb9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399cba",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399cbb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399cbc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399cbd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.449755",
+        "longitude": "-2.602477"
+    },
+    {
+        "_id": "6a552920877325eda5399cbe",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mede Close",
+        "latitude": "51.446085",
+        "longitude": "-2.588615"
+    },
+    {
+        "_id": "6a552920877325eda5399cbf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armada Place",
+        "latitude": "51.463483",
+        "longitude": "-2.590566"
+    },
+    {
+        "_id": "6a552920877325eda5399cc0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.447203",
+        "longitude": "-2.602127"
+    },
+    {
+        "_id": "6a552920877325eda5399cc1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near B4053",
+        "latitude": "51.453117",
+        "longitude": "-2.590288"
+    },
+    {
+        "_id": "6a552920877325eda5399cc2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399cc3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Eugene Street",
+        "latitude": "51.459668",
+        "longitude": "-2.578383"
+    },
+    {
+        "_id": "6a552920877325eda5399cc4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399cc5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Michael's Hill",
+        "latitude": "51.459528",
+        "longitude": "-2.600850"
+    },
+    {
+        "_id": "6a552920877325eda5399cc6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.456782",
+        "longitude": "-2.606801"
+    },
+    {
+        "_id": "6a552920877325eda5399cc7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marlborough Street",
+        "latitude": "51.459755",
+        "longitude": "-2.593325"
+    },
+    {
+        "_id": "6a552920877325eda5399cc8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hassell Drive",
+        "latitude": "51.457339",
+        "longitude": "-2.572884"
+    },
+    {
+        "_id": "6a552920877325eda5399cc9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399cca",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399ccb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridewell Street",
+        "latitude": "51.457175",
+        "longitude": "-2.593248"
+    },
+    {
+        "_id": "6a552920877325eda5399ccc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399ccd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.449755",
+        "longitude": "-2.602477"
+    },
+    {
+        "_id": "6a552920877325eda5399cce",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Castle Street",
+        "latitude": "51.455470",
+        "longitude": "-2.585368"
+    },
+    {
+        "_id": "6a552920877325eda5399ccf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Franklyn Lane",
+        "latitude": "51.465502",
+        "longitude": "-2.580573"
+    },
+    {
+        "_id": "6a552920877325eda5399cd0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Friary",
+        "latitude": "51.449924",
+        "longitude": "-2.583167"
+    },
+    {
+        "_id": "6a552920877325eda5399cd1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawfords Gate",
+        "latitude": "51.458707",
+        "longitude": "-2.578169"
+    },
+    {
+        "_id": "6a552920877325eda5399cd2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Henry Street",
+        "latitude": "51.442981",
+        "longitude": "-2.579884"
+    },
+    {
+        "_id": "6a552920877325eda5399cd3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Belgrave Road",
+        "latitude": "51.461601",
+        "longitude": "-2.606937"
+    },
+    {
+        "_id": "6a552920877325eda5399cd4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canterbury Street",
+        "latitude": "51.452419",
+        "longitude": "-2.565800"
+    },
+    {
+        "_id": "6a552920877325eda5399cd5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pithay Court",
+        "latitude": "51.455763",
+        "longitude": "-2.591503"
+    },
+    {
+        "_id": "6a552920877325eda5399cd6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Houlton Street",
+        "latitude": "51.460046",
+        "longitude": "-2.581857"
+    },
+    {
+        "_id": "6a552920877325eda5399cd7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399cd8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399cd9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399cda",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399cdb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near B4053",
+        "latitude": "51.453117",
+        "longitude": "-2.590288"
+    },
+    {
+        "_id": "6a552920877325eda5399cdc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399cdd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shaw Close",
+        "latitude": "51.461527",
+        "longitude": "-2.567769"
+    },
+    {
+        "_id": "6a552920877325eda5399cde",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399cdf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Guinea Street",
+        "latitude": "51.447360",
+        "longitude": "-2.592401"
+    },
+    {
+        "_id": "6a552920877325eda5399ce0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399ce1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near B4051",
+        "latitude": "51.459667",
+        "longitude": "-2.591150"
+    },
+    {
+        "_id": "6a552920877325eda5399ce2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wilder Street",
+        "latitude": "51.461709",
+        "longitude": "-2.587391"
+    },
+    {
+        "_id": "6a552920877325eda5399ce3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399ce4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399ce5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399ce6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399ce7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399ce8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399ce9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brookfield Lane",
+        "latitude": "51.468207",
+        "longitude": "-2.593420"
+    },
+    {
+        "_id": "6a552920877325eda5399cea",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399ceb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Franklyn Lane",
+        "latitude": "51.465502",
+        "longitude": "-2.580573"
+    },
+    {
+        "_id": "6a552920877325eda5399cec",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399ced",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399cee",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399cef",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cotham Grove",
+        "latitude": "51.464997",
+        "longitude": "-2.596948"
+    },
+    {
+        "_id": "6a552920877325eda5399cf0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399cf1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.456492",
+        "longitude": "-2.604417"
+    },
+    {
+        "_id": "6a552920877325eda5399cf2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Thrissell Street",
+        "latitude": "51.459839",
+        "longitude": "-2.574629"
+    },
+    {
+        "_id": "6a552920877325eda5399cf3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pithay Court",
+        "latitude": "51.455763",
+        "longitude": "-2.591503"
+    },
+    {
+        "_id": "6a552920877325eda5399cf4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399cf5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Barton Hill Road",
+        "latitude": "51.454930",
+        "longitude": "-2.565370"
+    },
+    {
+        "_id": "6a552920877325eda5399cf6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399cf7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399cf8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399cf9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399cfa",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399cfb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Mews",
+        "latitude": "51.465556",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399cfc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399cfd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453504",
+        "longitude": "-2.600674"
+    },
+    {
+        "_id": "6a552920877325eda5399cfe",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399cff",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399d00",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.457903",
+        "longitude": "-2.566748"
+    },
+    {
+        "_id": "6a552920877325eda5399d01",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Crow Lane",
+        "latitude": "51.452670",
+        "longitude": "-2.593319"
+    },
+    {
+        "_id": "6a552920877325eda5399d02",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Elmgrove Road",
+        "latitude": "51.467388",
+        "longitude": "-2.597109"
+    },
+    {
+        "_id": "6a552920877325eda5399d03",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawrence Hill",
+        "latitude": "51.458516",
+        "longitude": "-2.569373"
+    },
+    {
+        "_id": "6a552920877325eda5399d04",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliffe Parade West",
+        "latitude": "51.448244",
+        "longitude": "-2.593636"
+    },
+    {
+        "_id": "6a552920877325eda5399d05",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brigstocke Road",
+        "latitude": "51.463500",
+        "longitude": "-2.587169"
+    },
+    {
+        "_id": "6a552920877325eda5399d06",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wade Street",
+        "latitude": "51.459066",
+        "longitude": "-2.580088"
+    },
+    {
+        "_id": "6a552920877325eda5399d07",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399d08",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Lamb Street",
+        "latitude": "51.450666",
+        "longitude": "-2.603583"
+    },
+    {
+        "_id": "6a552920877325eda5399d09",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Mews",
+        "latitude": "51.465556",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399d0a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399d0b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Street",
+        "latitude": "51.454044",
+        "longitude": "-2.595309"
+    },
+    {
+        "_id": "6a552920877325eda5399d0c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.448443",
+        "longitude": "-2.591667"
+    },
+    {
+        "_id": "6a552920877325eda5399d0d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453504",
+        "longitude": "-2.600674"
+    },
+    {
+        "_id": "6a552920877325eda5399d0e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Willway Street",
+        "latitude": "51.443248",
+        "longitude": "-2.591212"
+    },
+    {
+        "_id": "6a552920877325eda5399d0f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399d10",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399d11",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brookfield Lane",
+        "latitude": "51.468207",
+        "longitude": "-2.593420"
+    },
+    {
+        "_id": "6a552920877325eda5399d12",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Prince's Street",
+        "latitude": "51.462635",
+        "longitude": "-2.583775"
+    },
+    {
+        "_id": "6a552920877325eda5399d13",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d14",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Gay Street",
+        "latitude": "51.461976",
+        "longitude": "-2.591554"
+    },
+    {
+        "_id": "6a552920877325eda5399d15",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Culver Street",
+        "latitude": "51.453952",
+        "longitude": "-2.601093"
+    },
+    {
+        "_id": "6a552920877325eda5399d16",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bridewell Street",
+        "latitude": "51.457175",
+        "longitude": "-2.593248"
+    },
+    {
+        "_id": "6a552920877325eda5399d17",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399d18",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399d19",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob's Wells Road",
+        "latitude": "51.452471",
+        "longitude": "-2.609205"
+    },
+    {
+        "_id": "6a552920877325eda5399d1a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399d1b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399d1c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Kingsmarsh Way",
+        "latitude": "51.457742",
+        "longitude": "-2.569608"
+    },
+    {
+        "_id": "6a552920877325eda5399d1d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399d1e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Place",
+        "latitude": "51.456967",
+        "longitude": "-2.609164"
+    },
+    {
+        "_id": "6a552920877325eda5399d1f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Nicholas Street",
+        "latitude": "51.453866",
+        "longitude": "-2.593263"
+    },
+    {
+        "_id": "6a552920877325eda5399d20",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399d21",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Priory Road",
+        "latitude": "51.459556",
+        "longitude": "-2.605917"
+    },
+    {
+        "_id": "6a552920877325eda5399d22",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Jacob's Wells Road",
+        "latitude": "51.452471",
+        "longitude": "-2.609205"
+    },
+    {
+        "_id": "6a552920877325eda5399d23",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d24",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near B4051",
+        "latitude": "51.459667",
+        "longitude": "-2.591150"
+    },
+    {
+        "_id": "6a552920877325eda5399d25",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Street",
+        "latitude": "51.454044",
+        "longitude": "-2.595309"
+    },
+    {
+        "_id": "6a552920877325eda5399d26",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d27",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Somerset Street",
+        "latitude": "51.447320",
+        "longitude": "-2.586069"
+    },
+    {
+        "_id": "6a552920877325eda5399d28",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mark Lane",
+        "latitude": "51.452625",
+        "longitude": "-2.598629"
+    },
+    {
+        "_id": "6a552920877325eda5399d29",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Host Street",
+        "latitude": "51.455474",
+        "longitude": "-2.597126"
+    },
+    {
+        "_id": "6a552920877325eda5399d2a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newmarket Avenue",
+        "latitude": "51.455583",
+        "longitude": "-2.593415"
+    },
+    {
+        "_id": "6a552920877325eda5399d2b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399d2c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399d2d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near River Street",
+        "latitude": "51.458897",
+        "longitude": "-2.581526"
+    },
+    {
+        "_id": "6a552920877325eda5399d2e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399d2f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Unity Street",
+        "latitude": "51.453161",
+        "longitude": "-2.600924"
+    },
+    {
+        "_id": "6a552920877325eda5399d30",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Nicholas Street",
+        "latitude": "51.453866",
+        "longitude": "-2.593263"
+    },
+    {
+        "_id": "6a552920877325eda5399d31",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.454265",
+        "longitude": "-2.594155"
+    },
+    {
+        "_id": "6a552920877325eda5399d32",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stanhope Street",
+        "latitude": "51.447646",
+        "longitude": "-2.574749"
+    },
+    {
+        "_id": "6a552920877325eda5399d33",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newfoundland Way",
+        "latitude": "51.463201",
+        "longitude": "-2.578428"
+    },
+    {
+        "_id": "6a552920877325eda5399d34",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Peter's Terrace",
+        "latitude": "51.456383",
+        "longitude": "-2.567950"
+    },
+    {
+        "_id": "6a552920877325eda5399d35",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stokes Croft",
+        "latitude": "51.462667",
+        "longitude": "-2.590023"
+    },
+    {
+        "_id": "6a552920877325eda5399d36",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Philip Street",
+        "latitude": "51.442985",
+        "longitude": "-2.593453"
+    },
+    {
+        "_id": "6a552920877325eda5399d37",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Anvil Street",
+        "latitude": "51.452363",
+        "longitude": "-2.579068"
+    },
+    {
+        "_id": "6a552920877325eda5399d38",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399d39",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.457287",
+        "longitude": "-2.594214"
+    },
+    {
+        "_id": "6a552920877325eda5399d3a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399d3b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399d3c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399d3d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.456703",
+        "longitude": "-2.585081"
+    },
+    {
+        "_id": "6a552920877325eda5399d3e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399d3f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399d40",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Prince's Street",
+        "latitude": "51.462635",
+        "longitude": "-2.583775"
+    },
+    {
+        "_id": "6a552920877325eda5399d41",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Lane",
+        "latitude": "51.465529",
+        "longitude": "-2.589542"
+    },
+    {
+        "_id": "6a552920877325eda5399d42",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399d43",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle South",
+        "latitude": "51.456044",
+        "longitude": "-2.606978"
+    },
+    {
+        "_id": "6a552920877325eda5399d44",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d45",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cairns' Crescent",
+        "latitude": "51.466049",
+        "longitude": "-2.578953"
+    },
+    {
+        "_id": "6a552920877325eda5399d46",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399d47",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Conduit Road",
+        "latitude": "51.466950",
+        "longitude": "-2.576719"
+    },
+    {
+        "_id": "6a552920877325eda5399d48",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.450083",
+        "longitude": "-2.608468"
+    },
+    {
+        "_id": "6a552920877325eda5399d49",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.453066",
+        "longitude": "-2.602060"
+    },
+    {
+        "_id": "6a552920877325eda5399d4a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453850",
+        "longitude": "-2.592874"
+    },
+    {
+        "_id": "6a552920877325eda5399d4b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Great George Street",
+        "latitude": "51.458558",
+        "longitude": "-2.581003"
+    },
+    {
+        "_id": "6a552920877325eda5399d4c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Petrol Station",
+        "latitude": "51.446148",
+        "longitude": "-2.583162"
+    },
+    {
+        "_id": "6a552920877325eda5399d4d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Street",
+        "latitude": "51.454429",
+        "longitude": "-2.602683"
+    },
+    {
+        "_id": "6a552920877325eda5399d4e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nelson Street",
+        "latitude": "51.456619",
+        "longitude": "-2.593011"
+    },
+    {
+        "_id": "6a552920877325eda5399d4f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Morgan Street",
+        "latitude": "51.463750",
+        "longitude": "-2.580306"
+    },
+    {
+        "_id": "6a552920877325eda5399d50",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399d51",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clark Street",
+        "latitude": "51.461770",
+        "longitude": "-2.573343"
+    },
+    {
+        "_id": "6a552920877325eda5399d52",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399d53",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Herbert Street",
+        "latitude": "51.442289",
+        "longitude": "-2.597775"
+    },
+    {
+        "_id": "6a552920877325eda5399d54",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ship Lane",
+        "latitude": "51.446674",
+        "longitude": "-2.589443"
+    },
+    {
+        "_id": "6a552920877325eda5399d55",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Morgan Street",
+        "latitude": "51.463750",
+        "longitude": "-2.580306"
+    },
+    {
+        "_id": "6a552920877325eda5399d56",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399d57",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near East Grove",
+        "latitude": "51.466555",
+        "longitude": "-2.582084"
+    },
+    {
+        "_id": "6a552920877325eda5399d58",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near East Grove",
+        "latitude": "51.466555",
+        "longitude": "-2.582084"
+    },
+    {
+        "_id": "6a552920877325eda5399d59",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399d5a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hayes Close",
+        "latitude": "51.457638",
+        "longitude": "-2.574270"
+    },
+    {
+        "_id": "6a552920877325eda5399d5b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399d5c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Badminton Road",
+        "latitude": "51.465607",
+        "longitude": "-2.579178"
+    },
+    {
+        "_id": "6a552920877325eda5399d5d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pitch Lane",
+        "latitude": "51.464484",
+        "longitude": "-2.597043"
+    },
+    {
+        "_id": "6a552920877325eda5399d5e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Avenue",
+        "latitude": "51.454121",
+        "longitude": "-2.596159"
+    },
+    {
+        "_id": "6a552920877325eda5399d5f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Explore Lane",
+        "latitude": "51.449942",
+        "longitude": "-2.601098"
+    },
+    {
+        "_id": "6a552920877325eda5399d60",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.453066",
+        "longitude": "-2.602060"
+    },
+    {
+        "_id": "6a552920877325eda5399d61",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near City Road",
+        "latitude": "51.463510",
+        "longitude": "-2.586925"
+    },
+    {
+        "_id": "6a552920877325eda5399d62",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399d63",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Picton Lane",
+        "latitude": "51.465529",
+        "longitude": "-2.589542"
+    },
+    {
+        "_id": "6a552920877325eda5399d64",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d65",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawrence Hill",
+        "latitude": "51.458516",
+        "longitude": "-2.569373"
+    },
+    {
+        "_id": "6a552920877325eda5399d66",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399d67",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399d68",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Anchor Road",
+        "latitude": "51.450617",
+        "longitude": "-2.602647"
+    },
+    {
+        "_id": "6a552920877325eda5399d69",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399d6a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Stephen's Avenue",
+        "latitude": "51.454121",
+        "longitude": "-2.596159"
+    },
+    {
+        "_id": "6a552920877325eda5399d6b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Badminton Road",
+        "latitude": "51.465607",
+        "longitude": "-2.579178"
+    },
+    {
+        "_id": "6a552920877325eda5399d6c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Badminton Road",
+        "latitude": "51.465607",
+        "longitude": "-2.579178"
+    },
+    {
+        "_id": "6a552920877325eda5399d6d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399d6e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399d6f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d70",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Street",
+        "latitude": "51.459566",
+        "longitude": "-2.588069"
+    },
+    {
+        "_id": "6a552920877325eda5399d71",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399d72",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armoury Square",
+        "latitude": "51.461882",
+        "longitude": "-2.572495"
+    },
+    {
+        "_id": "6a552920877325eda5399d73",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brunswick Street",
+        "latitude": "51.462131",
+        "longitude": "-2.587627"
+    },
+    {
+        "_id": "6a552920877325eda5399d74",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Berkeley Avenue",
+        "latitude": "51.455363",
+        "longitude": "-2.604753"
+    },
+    {
+        "_id": "6a552920877325eda5399d75",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canterbury Street",
+        "latitude": "51.452419",
+        "longitude": "-2.565800"
+    },
+    {
+        "_id": "6a552920877325eda5399d76",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Gwyn Street",
+        "latitude": "51.463902",
+        "longitude": "-2.587577"
+    },
+    {
+        "_id": "6a552920877325eda5399d77",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399d78",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Trenchard Street",
+        "latitude": "51.454954",
+        "longitude": "-2.598501"
+    },
+    {
+        "_id": "6a552920877325eda5399d79",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Chatterton Street",
+        "latitude": "51.447366",
+        "longitude": "-2.584113"
+    },
+    {
+        "_id": "6a552920877325eda5399d7a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399d7b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dalrymple Road",
+        "latitude": "51.464683",
+        "longitude": "-2.586018"
+    },
+    {
+        "_id": "6a552920877325eda5399d7c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399d7d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399d7e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stokes Croft",
+        "latitude": "51.462667",
+        "longitude": "-2.590023"
+    },
+    {
+        "_id": "6a552920877325eda5399d7f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Street",
+        "latitude": "51.459566",
+        "longitude": "-2.588069"
+    },
+    {
+        "_id": "6a552920877325eda5399d80",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Telephone Avenue",
+        "latitude": "51.452838",
+        "longitude": "-2.595638"
+    },
+    {
+        "_id": "6a552920877325eda5399d81",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Telephone Avenue",
+        "latitude": "51.452838",
+        "longitude": "-2.595638"
+    },
+    {
+        "_id": "6a552920877325eda5399d82",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Walker Close",
+        "latitude": "51.459514",
+        "longitude": "-2.569515"
+    },
+    {
+        "_id": "6a552920877325eda5399d83",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Beaufort Street",
+        "latitude": "51.460572",
+        "longitude": "-2.573702"
+    },
+    {
+        "_id": "6a552920877325eda5399d84",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399d85",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bell Lane",
+        "latitude": "51.455618",
+        "longitude": "-2.595300"
+    },
+    {
+        "_id": "6a552920877325eda5399d86",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hill Street",
+        "latitude": "51.454149",
+        "longitude": "-2.603053"
+    },
+    {
+        "_id": "6a552920877325eda5399d87",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d88",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399d89",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399d8a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399d8b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ship Lane",
+        "latitude": "51.446674",
+        "longitude": "-2.589443"
+    },
+    {
+        "_id": "6a552920877325eda5399d8c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Fairfax Street",
+        "latitude": "51.456137",
+        "longitude": "-2.590414"
+    },
+    {
+        "_id": "6a552920877325eda5399d8d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399d8e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.449755",
+        "longitude": "-2.602477"
+    },
+    {
+        "_id": "6a552920877325eda5399d8f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near East Grove",
+        "latitude": "51.466555",
+        "longitude": "-2.582084"
+    },
+    {
+        "_id": "6a552920877325eda5399d90",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near West End",
+        "latitude": "51.445446",
+        "longitude": "-2.601068"
+    },
+    {
+        "_id": "6a552920877325eda5399d91",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armada Place",
+        "latitude": "51.463483",
+        "longitude": "-2.590566"
+    },
+    {
+        "_id": "6a552920877325eda5399d92",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.456677",
+        "longitude": "-2.592162"
+    },
+    {
+        "_id": "6a552920877325eda5399d93",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Midland Road",
+        "latitude": "51.455179",
+        "longitude": "-2.578744"
+    },
+    {
+        "_id": "6a552920877325eda5399d94",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brigstocke Road",
+        "latitude": "51.463500",
+        "longitude": "-2.587169"
+    },
+    {
+        "_id": "6a552920877325eda5399d95",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399d96",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hillgrove Street",
+        "latitude": "51.462213",
+        "longitude": "-2.591010"
+    },
+    {
+        "_id": "6a552920877325eda5399d97",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399d98",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399d99",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399d9a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399d9b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St John's Road",
+        "latitude": "51.444390",
+        "longitude": "-2.596464"
+    },
+    {
+        "_id": "6a552920877325eda5399d9c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399d9d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.454985",
+        "longitude": "-2.588801"
+    },
+    {
+        "_id": "6a552920877325eda5399d9e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cairns' Crescent",
+        "latitude": "51.466049",
+        "longitude": "-2.578953"
+    },
+    {
+        "_id": "6a552920877325eda5399d9f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399da0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Newmarket Avenue",
+        "latitude": "51.455583",
+        "longitude": "-2.593415"
+    },
+    {
+        "_id": "6a552920877325eda5399da1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.459972",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399da2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Burnell Drive",
+        "latitude": "51.463520",
+        "longitude": "-2.583139"
+    },
+    {
+        "_id": "6a552920877325eda5399da3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clark Street",
+        "latitude": "51.461770",
+        "longitude": "-2.573343"
+    },
+    {
+        "_id": "6a552920877325eda5399da4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Little King Street",
+        "latitude": "51.451608",
+        "longitude": "-2.593392"
+    },
+    {
+        "_id": "6a552920877325eda5399da5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399da6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tucker Street",
+        "latitude": "51.458521",
+        "longitude": "-2.583090"
+    },
+    {
+        "_id": "6a552920877325eda5399da7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Theatre/concert Hall",
+        "latitude": "51.453049",
+        "longitude": "-2.598261"
+    },
+    {
+        "_id": "6a552920877325eda5399da8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399da9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Baldwin Street",
+        "latitude": "51.453382",
+        "longitude": "-2.594753"
+    },
+    {
+        "_id": "6a552920877325eda5399daa",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tucker Street",
+        "latitude": "51.458521",
+        "longitude": "-2.583090"
+    },
+    {
+        "_id": "6a552920877325eda5399dab",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.450646",
+        "longitude": "-2.588084"
+    },
+    {
+        "_id": "6a552920877325eda5399dac",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.457280",
+        "longitude": "-2.607758"
+    },
+    {
+        "_id": "6a552920877325eda5399dad",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399dae",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399daf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399db0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399db1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Beaumont Terrace",
+        "latitude": "51.463356",
+        "longitude": "-2.572672"
+    },
+    {
+        "_id": "6a552920877325eda5399db2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stanhope Street",
+        "latitude": "51.447646",
+        "longitude": "-2.574749"
+    },
+    {
+        "_id": "6a552920877325eda5399db3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Somerset Street",
+        "latitude": "51.447320",
+        "longitude": "-2.586069"
+    },
+    {
+        "_id": "6a552920877325eda5399db4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399db5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Old Bread Street",
+        "latitude": "51.453205",
+        "longitude": "-2.581683"
+    },
+    {
+        "_id": "6a552920877325eda5399db6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pitch Lane",
+        "latitude": "51.464484",
+        "longitude": "-2.597043"
+    },
+    {
+        "_id": "6a552920877325eda5399db7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Gibson Road",
+        "latitude": "51.467382",
+        "longitude": "-2.594619"
+    },
+    {
+        "_id": "6a552920877325eda5399db8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tucker Street",
+        "latitude": "51.458521",
+        "longitude": "-2.583090"
+    },
+    {
+        "_id": "6a552920877325eda5399db9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.459972",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399dba",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399dbb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dove Street",
+        "latitude": "51.462534",
+        "longitude": "-2.593188"
+    },
+    {
+        "_id": "6a552920877325eda5399dbc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Spring Street",
+        "latitude": "51.444423",
+        "longitude": "-2.586507"
+    },
+    {
+        "_id": "6a552920877325eda5399dbd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.459972",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399dbe",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399dbf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.453504",
+        "longitude": "-2.600674"
+    },
+    {
+        "_id": "6a552920877325eda5399dc0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Telephone Avenue",
+        "latitude": "51.452838",
+        "longitude": "-2.595638"
+    },
+    {
+        "_id": "6a552920877325eda5399dc1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brookfield Lane",
+        "latitude": "51.468207",
+        "longitude": "-2.593420"
+    },
+    {
+        "_id": "6a552920877325eda5399dc2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399dc3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399dc4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399dc5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dc6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Street",
+        "latitude": "51.454429",
+        "longitude": "-2.602683"
+    },
+    {
+        "_id": "6a552920877325eda5399dc7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near River Street",
+        "latitude": "51.458897",
+        "longitude": "-2.581526"
+    },
+    {
+        "_id": "6a552920877325eda5399dc8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Further/higher Educational Building",
+        "latitude": "51.461372",
+        "longitude": "-2.591741"
+    },
+    {
+        "_id": "6a552920877325eda5399dc9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near A38",
+        "latitude": "51.456892",
+        "longitude": "-2.595792"
+    },
+    {
+        "_id": "6a552920877325eda5399dca",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Easton Way",
+        "latitude": "51.462497",
+        "longitude": "-2.571653"
+    },
+    {
+        "_id": "6a552920877325eda5399dcb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle South",
+        "latitude": "51.456044",
+        "longitude": "-2.606978"
+    },
+    {
+        "_id": "6a552920877325eda5399dcc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Orange Street",
+        "latitude": "51.460379",
+        "longitude": "-2.583646"
+    },
+    {
+        "_id": "6a552920877325eda5399dcd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dce",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dcf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dd0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliffe Parade West",
+        "latitude": "51.448244",
+        "longitude": "-2.593636"
+    },
+    {
+        "_id": "6a552920877325eda5399dd1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Triangle West",
+        "latitude": "51.456650",
+        "longitude": "-2.607936"
+    },
+    {
+        "_id": "6a552920877325eda5399dd2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dd3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399dd4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dd5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Bond Street",
+        "latitude": "51.459452",
+        "longitude": "-2.587535"
+    },
+    {
+        "_id": "6a552920877325eda5399dd6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Barnabas Street",
+        "latitude": "51.464921",
+        "longitude": "-2.585273"
+    },
+    {
+        "_id": "6a552920877325eda5399dd7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.459179",
+        "longitude": "-2.596138"
+    },
+    {
+        "_id": "6a552920877325eda5399dd8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399dd9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ferry Terminal",
+        "latitude": "51.452148",
+        "longitude": "-2.591643"
+    },
+    {
+        "_id": "6a552920877325eda5399dda",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tyler Street",
+        "latitude": "51.452313",
+        "longitude": "-2.576563"
+    },
+    {
+        "_id": "6a552920877325eda5399ddb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Luke's Crescent",
+        "latitude": "51.442515",
+        "longitude": "-2.583231"
+    },
+    {
+        "_id": "6a552920877325eda5399ddc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399ddd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tyler Street",
+        "latitude": "51.452313",
+        "longitude": "-2.576563"
+    },
+    {
+        "_id": "6a552920877325eda5399dde",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Wilder Street",
+        "latitude": "51.461709",
+        "longitude": "-2.587391"
+    },
+    {
+        "_id": "6a552920877325eda5399ddf",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mark Lane",
+        "latitude": "51.452625",
+        "longitude": "-2.598629"
+    },
+    {
+        "_id": "6a552920877325eda5399de0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399de1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.459972",
+        "longitude": "-2.587800"
+    },
+    {
+        "_id": "6a552920877325eda5399de2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Street",
+        "latitude": "51.459566",
+        "longitude": "-2.588069"
+    },
+    {
+        "_id": "6a552920877325eda5399de3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Windsor Terrace",
+        "latitude": "51.441950",
+        "longitude": "-2.581094"
+    },
+    {
+        "_id": "6a552920877325eda5399de4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399de5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399de6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cheltenham Road",
+        "latitude": "51.466789",
+        "longitude": "-2.591070"
+    },
+    {
+        "_id": "6a552920877325eda5399de7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Harleston Street",
+        "latitude": "51.459290",
+        "longitude": "-2.576637"
+    },
+    {
+        "_id": "6a552920877325eda5399de8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cannon Street",
+        "latitude": "51.459258",
+        "longitude": "-2.592109"
+    },
+    {
+        "_id": "6a552920877325eda5399de9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Marsh Street",
+        "latitude": "51.452961",
+        "longitude": "-2.596173"
+    },
+    {
+        "_id": "6a552920877325eda5399dea",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Backs",
+        "latitude": "51.450199",
+        "longitude": "-2.591129"
+    },
+    {
+        "_id": "6a552920877325eda5399deb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399dec",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Mark Lane",
+        "latitude": "51.452625",
+        "longitude": "-2.598629"
+    },
+    {
+        "_id": "6a552920877325eda5399ded",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Crow Lane",
+        "latitude": "51.452670",
+        "longitude": "-2.593319"
+    },
+    {
+        "_id": "6a552920877325eda5399dee",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399def",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399df0",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Canon's Road",
+        "latitude": "51.450979",
+        "longitude": "-2.598608"
+    },
+    {
+        "_id": "6a552920877325eda5399df1",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.457280",
+        "longitude": "-2.607758"
+    },
+    {
+        "_id": "6a552920877325eda5399df2",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Sports/recreation Area",
+        "latitude": "51.452267",
+        "longitude": "-2.589457"
+    },
+    {
+        "_id": "6a552920877325eda5399df3",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Colston Parade",
+        "latitude": "51.447724",
+        "longitude": "-2.589874"
+    },
+    {
+        "_id": "6a552920877325eda5399df4",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Coronation Road",
+        "latitude": "51.446239",
+        "longitude": "-2.604143"
+    },
+    {
+        "_id": "6a552920877325eda5399df5",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.456703",
+        "longitude": "-2.585081"
+    },
+    {
+        "_id": "6a552920877325eda5399df6",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Montgomery Street",
+        "latitude": "51.441042",
+        "longitude": "-2.582809"
+    },
+    {
+        "_id": "6a552920877325eda5399df7",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Colston Parade",
+        "latitude": "51.447724",
+        "longitude": "-2.589874"
+    },
+    {
+        "_id": "6a552920877325eda5399df8",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Beaufort Street",
+        "latitude": "51.460572",
+        "longitude": "-2.573702"
+    },
+    {
+        "_id": "6a552920877325eda5399df9",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Stanhope Street",
+        "latitude": "51.447646",
+        "longitude": "-2.574749"
+    },
+    {
+        "_id": "6a552920877325eda5399dfa",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Broad Weir",
+        "latitude": "51.456685",
+        "longitude": "-2.586981"
+    },
+    {
+        "_id": "6a552920877325eda5399dfb",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Herbert Street",
+        "latitude": "51.442289",
+        "longitude": "-2.597775"
+    },
+    {
+        "_id": "6a552920877325eda5399dfc",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near The Horsefair",
+        "latitude": "51.458559",
+        "longitude": "-2.589740"
+    },
+    {
+        "_id": "6a552920877325eda5399dfd",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Sports/recreation Area",
+        "latitude": "51.452267",
+        "longitude": "-2.589457"
+    },
+    {
+        "_id": "6a552920877325eda5399dfe",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dighton Street",
+        "latitude": "51.460809",
+        "longitude": "-2.592979"
+    },
+    {
+        "_id": "6a552920877325eda5399dff",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.456187",
+        "longitude": "-2.591192"
+    },
+    {
+        "_id": "6a552920877325eda5399e00",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Shopping Area",
+        "latitude": "51.458279",
+        "longitude": "-2.584727"
+    },
+    {
+        "_id": "6a552920877325eda5399e01",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Ashley Road",
+        "latitude": "51.465276",
+        "longitude": "-2.584399"
+    },
+    {
+        "_id": "6a552920877325eda5399e02",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399e03",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399e04",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399e05",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Clark Street",
+        "latitude": "51.461770",
+        "longitude": "-2.573343"
+    },
+    {
+        "_id": "6a552920877325eda5399e06",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Moon Street",
+        "latitude": "51.460967",
+        "longitude": "-2.590217"
+    },
+    {
+        "_id": "6a552920877325eda5399e07",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399e08",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399e09",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Gloucester Street",
+        "latitude": "51.459741",
+        "longitude": "-2.587279"
+    },
+    {
+        "_id": "6a552920877325eda5399e0a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Pithay Court",
+        "latitude": "51.455763",
+        "longitude": "-2.591503"
+    },
+    {
+        "_id": "6a552920877325eda5399e0b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Beaufort Street",
+        "latitude": "51.460572",
+        "longitude": "-2.573702"
+    },
+    {
+        "_id": "6a552920877325eda5399e0c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399e0d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawford Street",
+        "latitude": "51.456790",
+        "longitude": "-2.580232"
+    },
+    {
+        "_id": "6a552920877325eda5399e0e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Commercial Road",
+        "latitude": "51.446337",
+        "longitude": "-2.593842"
+    },
+    {
+        "_id": "6a552920877325eda5399e0f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Byron Street",
+        "latitude": "51.465639",
+        "longitude": "-2.576414"
+    },
+    {
+        "_id": "6a552920877325eda5399e10",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lawfords Gate",
+        "latitude": "51.458707",
+        "longitude": "-2.578169"
+    },
+    {
+        "_id": "6a552920877325eda5399e11",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near B4053",
+        "latitude": "51.453117",
+        "longitude": "-2.590288"
+    },
+    {
+        "_id": "6a552920877325eda5399e12",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Penn Street",
+        "latitude": "51.457668",
+        "longitude": "-2.586303"
+    },
+    {
+        "_id": "6a552920877325eda5399e13",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Cheltenham Lane",
+        "latitude": "51.468351",
+        "longitude": "-2.591637"
+    },
+    {
+        "_id": "6a552920877325eda5399e14",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Parking Area",
+        "latitude": "51.456703",
+        "longitude": "-2.585081"
+    },
+    {
+        "_id": "6a552920877325eda5399e15",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Street",
+        "latitude": "51.454429",
+        "longitude": "-2.602683"
+    },
+    {
+        "_id": "6a552920877325eda5399e16",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brigstocke Road",
+        "latitude": "51.463500",
+        "longitude": "-2.587169"
+    },
+    {
+        "_id": "6a552920877325eda5399e17",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Street",
+        "latitude": "51.454429",
+        "longitude": "-2.602683"
+    },
+    {
+        "_id": "6a552920877325eda5399e18",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Park Street",
+        "latitude": "51.454429",
+        "longitude": "-2.602683"
+    },
+    {
+        "_id": "6a552920877325eda5399e19",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitehouse Place",
+        "latitude": "51.444203",
+        "longitude": "-2.588979"
+    },
+    {
+        "_id": "6a552920877325eda5399e1a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.449712",
+        "longitude": "-2.580617"
+    },
+    {
+        "_id": "6a552920877325eda5399e1b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nine Tree Hill",
+        "latitude": "51.464084",
+        "longitude": "-2.590833"
+    },
+    {
+        "_id": "6a552920877325eda5399e1c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Tailor's Court",
+        "latitude": "51.455696",
+        "longitude": "-2.594093"
+    },
+    {
+        "_id": "6a552920877325eda5399e1d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hospital",
+        "latitude": "51.457748",
+        "longitude": "-2.597329"
+    },
+    {
+        "_id": "6a552920877325eda5399e1e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Redcliff Hill",
+        "latitude": "51.447531",
+        "longitude": "-2.590662"
+    },
+    {
+        "_id": "6a552920877325eda5399e1f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Whitson Street",
+        "latitude": "51.459122",
+        "longitude": "-2.594036"
+    },
+    {
+        "_id": "6a552920877325eda5399e20",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399e21",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Armoury Square",
+        "latitude": "51.461882",
+        "longitude": "-2.572495"
+    },
+    {
+        "_id": "6a552920877325eda5399e22",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.450094",
+        "longitude": "-2.599344"
+    },
+    {
+        "_id": "6a552920877325eda5399e23",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Henry Street",
+        "latitude": "51.442981",
+        "longitude": "-2.579884"
+    },
+    {
+        "_id": "6a552920877325eda5399e24",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399e25",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Nightclub",
+        "latitude": "51.461624",
+        "longitude": "-2.589650"
+    },
+    {
+        "_id": "6a552920877325eda5399e26",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Dermot Street",
+        "latitude": "51.465331",
+        "longitude": "-2.576986"
+    },
+    {
+        "_id": "6a552920877325eda5399e27",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Augustine's Parade",
+        "latitude": "51.453357",
+        "longitude": "-2.597833"
+    },
+    {
+        "_id": "6a552920877325eda5399e28",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Herbert Street",
+        "latitude": "51.442289",
+        "longitude": "-2.597775"
+    },
+    {
+        "_id": "6a552920877325eda5399e29",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Petrol Station",
+        "latitude": "51.446148",
+        "longitude": "-2.583162"
+    },
+    {
+        "_id": "6a552920877325eda5399e2a",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near York Road",
+        "latitude": "51.467301",
+        "longitude": "-2.585735"
+    },
+    {
+        "_id": "6a552920877325eda5399e2b",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Waterloo Place",
+        "latitude": "51.456698",
+        "longitude": "-2.577093"
+    },
+    {
+        "_id": "6a552920877325eda5399e2c",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Brookfield Lane",
+        "latitude": "51.468207",
+        "longitude": "-2.593420"
+    },
+    {
+        "_id": "6a552920877325eda5399e2d",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Lower Gay Street",
+        "latitude": "51.461976",
+        "longitude": "-2.591554"
+    },
+    {
+        "_id": "6a552920877325eda5399e2e",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near St Nicholas Street",
+        "latitude": "51.453866",
+        "longitude": "-2.593263"
+    },
+    {
+        "_id": "6a552920877325eda5399e2f",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Hassell Drive",
+        "latitude": "51.457339",
+        "longitude": "-2.572884"
+    },
+    {
+        "_id": "6a552920877325eda5399e30",
+        "category": "violent-crime",
+        "month": "2025-12",
+        "review_status": "Not Reviewed",
+        "street": "On or near Drummond Road",
+        "latitude": "51.464348",
+        "longitude": "-2.586633"
+    }
+]
