@@ -1,6 +1,7 @@
 # database/crud.py
 
 from database.mongo import get_collection
+from bson import ObjectId
 
 
 def insert_crimes(crimes):
@@ -81,3 +82,49 @@ def count_by_category():
     ]
 
     return list(collection.aggregate(pipeline))
+
+
+def update_crime_status(crime_id, status):
+    """
+    Update the review status of a crime.
+
+    Args:
+        crime_id (str): MongoDB document id.
+        status (str): New review status.
+
+    Returns:
+        int: Number of modified documents.
+    """
+
+    collection = get_collection()
+
+    result = collection.update_one(
+        {"_id": ObjectId(crime_id)},
+        {
+            "$set": {
+                "review_status": status
+            }
+        }
+    )
+
+    return result.modified_count
+
+
+def delete_crime(crime_id):
+    """
+    Delete a crime record.
+
+    Args:
+        crime_id (str): MongoDB document id.
+
+    Returns:
+        int: Number of deleted documents.
+    """
+
+    collection = get_collection()
+
+    result = collection.delete_one(
+        {"_id": ObjectId(crime_id)}
+    )
+
+    return result.deleted_count
