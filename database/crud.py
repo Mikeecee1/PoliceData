@@ -138,3 +138,21 @@ def delete_crime(crime_id):
     )
 
     return result.deleted_count
+
+
+def add_crime(crime):
+    """
+    Add a single crime record to MongoDB.
+
+    Args:
+        crime (dict): Crime document to insert.
+
+    Returns:
+        str: The ObjectId of the inserted document.
+    """
+
+    collection = get_collection()
+
+    result = collection.insert_one(crime)
+
+    return str(result.inserted_id)
