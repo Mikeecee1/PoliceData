@@ -53,8 +53,10 @@ PoliceData/
 - `database/crud.py` contains the database helpers for inserting, reading, counting, filtering, updating, and deleting crime records.
 - `test_connection.py` is a quick script for checking that the MongoDB collection connection works.
 - `tests/test_crud.py` is a script-style CRUD check that exercises the database helper functions.
-- `export/json_export.py` is currently an empty placeholder for JSON export logic.
-- `cloud/s3_upload.py` is currently an empty placeholder for S3 upload logic.
+- `tests/test_export.py` runs the JSON export flow and prints the output file path and exported count.
+- `tests/test_upload.py` runs the S3 upload flow for the exported JSON file.
+- `export/json_export.py` transforms stored crime records and writes them to `exports/transformed_crimes.json`.
+- `cloud/s3_upload.py` uploads a local file to S3 using AWS credentials and bucket settings from the environment.
 - `exports/` is the output folder for generated export files.
 - `requirements.txt` lists the Python dependencies needed by the project.
 - `.env` should hold local configuration values such as MongoDB connection details.
@@ -96,6 +98,18 @@ Check the MongoDB connection:
 python test_connection.py
 ```
 
+Export crime data to JSON:
+
+```bash
+python tests/test_export.py
+```
+
+Upload the exported JSON file to S3:
+
+```bash
+python tests/test_upload.py
+```
+
 ## Tests
 
 The repository currently uses script-style checks rather than a full test runner.
@@ -106,6 +120,18 @@ Run the CRUD check script:
 python tests/test_crud.py
 ```
 
+Run the export check script:
+
+```bash
+python tests/test_export.py
+```
+
+Run the upload check script:
+
+```bash
+python tests/test_upload.py
+```
+
 If you later add automated unit tests, a common next step would be to run them with `pytest`.
 
 ## Configuration
@@ -113,3 +139,5 @@ If you later add automated unit tests, a common next step would be to run them w
 The API defaults in `config.py` point to Bristol coordinates and a default month. You can change those values or pass different arguments to `get_crimes()` in `api/police_api.py` if you want data for another location or month.
 
 MongoDB settings are read from environment variables in `database/mongo.py`, so local development depends on a correctly populated `.env` file.
+
+The export flow uses `config.py` to filter crime categories before writing JSON. The S3 upload flow expects AWS settings such as `AWS_PROFILE`, `AWS_REGION`, and `S3_BUCKET` to be available in the environment.
