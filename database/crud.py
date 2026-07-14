@@ -98,16 +98,22 @@ def update_crime_status(crime_id, status):
 
     collection = get_collection()
 
+    try:
+        object_id = ObjectId(crime_id)
+    except Exception:
+        return 0
+
     result = collection.update_one(
-        {"_id": ObjectId(crime_id)},
+        {"_id": object_id},
         {
             "$set": {
                 "review_status": status
             }
         }
     )
-
+    #commented out the return of the result object and returning only the modified count for simplicity
     return result.modified_count
+    #return result 
 
 
 def delete_crime(crime_id):
@@ -122,9 +128,13 @@ def delete_crime(crime_id):
     """
 
     collection = get_collection()
+    try:
+        object_id = ObjectId(crime_id)
+    except Exception:
+        return 0
 
     result = collection.delete_one(
-        {"_id": ObjectId(crime_id)}
+        {"_id": object_id}
     )
 
     return result.deleted_count
