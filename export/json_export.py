@@ -72,13 +72,21 @@ def export_crimes(filename="transformed_crimes.json"):
     transformed = transform_records(crimes)
 
     export_path = Path("exports") / filename
+    
+    try:
+        with open(export_path, "w", encoding="utf-8") as file:
 
-    with open(export_path, "w", encoding="utf-8") as file:
-
-        json.dump(
+         json.dump(
             transformed,
             file,
-            indent=4
+            indent=4,
+            ensure_ascii=False
         )
+
+    except OSError as err:
+
+        print(f"Export failed: {err}")
+
+        return None, 0
 
     return str(export_path), len(transformed)
