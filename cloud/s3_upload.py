@@ -39,12 +39,19 @@ def upload_file(filepath):
 
     bucket_name = os.getenv("S3_BUCKET")
 
+    folder = os.getenv("S3_FOLDER", "").strip()
+
+    if folder:
+        object_key = f"{folder}/{file_path.name}"
+    else:
+        object_key = file_path.name
+
     try:
 
         s3.upload_file(
             str(file_path),
             bucket_name,
-            file_path.name
+            object_key
         )
 
         return True
