@@ -12,25 +12,30 @@ from config import (
 
 
 def get_crimes(
-    lat=DEFAULT_LAT,
-    lng=DEFAULT_LNG,
+    latitude=DEFAULT_LAT,
+    longitude=DEFAULT_LNG,
     month=DEFAULT_MONTH,
 ):
     """
     Retrieve street crime data from the UK Police API.
 
+    Args:
+        latitude (float): Latitude of the search location.
+        longitude (float): Longitude of the search location.
+        month (str): Month in YYYY-MM format.
+
     Returns:
-        list: List of crime records (dictionaries)
+        list: List of crime records (dictionaries).
 
     Raises:
-        requests.RequestException
+        requests.RequestException: If the API request fails.
     """
 
     url = f"{BASE_URL}/crimes-street/all-crime"
 
     params = {
-        "lat": lat,
-        "lng": lng,
+        "lat": latitude,
+        "lng": longitude,
         "date": month,
     }
 

@@ -4,18 +4,19 @@ from database.mongo import get_collection
 from bson import ObjectId
 
 
-def insert_crimes(crimes):
+def insert_crimes(crimes, collection_name):
     """
     Insert a list of crime records into MongoDB.
 
     Args:
         crimes (list): List of dictionaries from the Police API.
+        collection_name (str): MongoDB collection name.
 
     Returns:
         int: Number of documents inserted.
     """
 
-    collection = get_collection()
+    collection = get_collection(collection_name)
 
     result = collection.insert_many(crimes)
 
@@ -33,7 +34,7 @@ def count_crimes():
 
     return collection.count_documents({})
 
-def get_all_crimes():
+def get_all_crimes(collection_name=None):
     """
     Return all crime records from MongoDB.
 
@@ -41,7 +42,7 @@ def get_all_crimes():
         list: List of crime documents.
     """
 
-    collection = get_collection()
+    collection = get_collection(collection_name)
 
     return list(collection.find())
 
@@ -64,9 +65,9 @@ def find_by_category(category):
         )
     )
 
-def count_by_category():
+def count_by_category(collection_name=None):
 
-    collection = get_collection()
+    collection = get_collection(collection_name)
     pipeline = [
         {
             "$group": {

@@ -14,9 +14,6 @@ def transform_record(crime):
         dict | None
     """
 
-    if crime["category"] not in EXPORT_CATEGORIES:
-        return None
-
     return {
         "_id": str(crime["_id"]),
         "category": crime["category"],
@@ -56,7 +53,11 @@ def transform_records(crimes):
 
 
 
-def export_crimes(filename="transformed_crimes.json"):
+def export_crimes(
+    collection_name,
+    category=None,
+    filename="transformed_crimes.json",
+    ):
     """
     Export transformed crime records to a JSON file.
 
@@ -67,7 +68,14 @@ def export_crimes(filename="transformed_crimes.json"):
         str: Path to exported file.
     """
 
-    crimes = get_all_crimes()
+    crimes = get_all_crimes(collection_name)
+    if category is not None:
+
+        crimes = [
+            crime
+            for crime in crimes
+            if crime["category"] == category
+        ]
 
     transformed = transform_records(crimes)
 
