@@ -1,6 +1,6 @@
 # PoliceData
 
-PoliceData is a small Python project that downloads street crime data from the UK Police API, stores it in MongoDB, and provides helper functions for reading and updating the data. The repository is organized into a simple pipeline: fetch data from the API, persist it in the database, and optionally build export or cloud-upload tooling around the stored records.
+PoliceData is a small Python project that downloads street crime data from the [UK Police API](https://data.police.uk/docs/), stores it in MongoDB, and provides helper functions for reading and updating the data. The repository is organized into a simple pipeline: fetch data from the API, persist it in the database, and optionally build export or cloud-upload tooling around the stored records.
 
 ## Table of Contents
 
