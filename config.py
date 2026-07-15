@@ -9,7 +9,7 @@ REQUEST_TIMEOUT = 10  # seconds
 
 #crime categories to export to json file for s3 upload
 EXPORT_CATEGORIES = [   
-     "burglary",
+    "burglary",
     "violent-crime",
     "vehicle-crime",
 ]
