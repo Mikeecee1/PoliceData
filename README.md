@@ -1,26 +1,75 @@
-# PoliceData
+# PoliceData – Python ETL Pipeline
 
-PoliceData is a small Python project that downloads street crime data from the [UK Police API](https://data.police.uk/docs/), stores it in MongoDB, and provides helper functions for reading and updating the data. The repository is organized into a simple pipeline: fetch data from the API, persist it in the database, and optionally build export or cloud-upload tooling around the stored records.
+## Project Summary
+
+PoliceData is a Python ETL (Extract, Transform, Load) application that retrieves street crime data from the [UK Police API](https://data.police.uk/docs/), stores it in MongoDB, transforms selected records into JSON, and uploads the results to an AWS S3 bucket.
+
+The application provides an interactive command-line interface that allows users to:
+
+* Select a location and month to download crime data.
+* Store data in a user-defined MongoDB collection.
+* Analyse crime categories within the downloaded dataset.
+* Select crime categories for export.
+* Generate JSON files with meaningful filenames.
+* Optionally upload the exported data to AWS S3.
+
+The project demonstrates a complete cloud ETL workflow using Python, MongoDB, AWS S3 and REST APIs.
+
 
 ## Table of Contents
 
+- [Project Summary](#project-summary)
 - [Overview](#overview)
+- [ETL Workflow](#etl-workflow)
 - [Project Structure](#project-structure)
+- [Features](#features)
 - [File Guide](#file-guide)
 - [Setup](#setup)
 - [Run](#run)
 - [Tests](#tests)
+- [Technologies](#technologies)
 - [Configuration](#configuration)
+- [Future Improvements](#future-improvements)
+- [Collaborators](#collaborators)
 
 ## Overview
 
-The default workflow is:
+The application follows a complete ETL workflow.
 
-1. Call the UK Police API for street crime data.
-2. Insert the returned records into MongoDB.
-3. Query, count, update, or delete records through the CRUD helpers.
+1. The user selects a location and month.
+2. Crime data is downloaded from the UK Police API.
+3. Records are stored in a MongoDB collection chosen by the user.
+4. Crime statistics are generated from the imported dataset.
+5. The user selects which crime category to export.
+6. Selected records are transformed into a simplified JSON format.
+7. The JSON file is optionally uploaded to AWS S3.
 
-The project currently includes a basic command-line entry point and a few script-style checks for database connectivity and CRUD behavior.
+
+## ETL Workflow
+
+```text
+                 UK Police API
+                       │
+                       ▼
+                Extract Crime Data
+                       │
+                       ▼
+                  MongoDB Database
+                       │
+                       ▼
+             Analyse Crime Categories
+                       │
+                       ▼
+              Transform Selected Data
+                       │
+                       ▼
+                  JSON Export File
+                       │
+                       ▼
+                  AWS S3 Bucket
+```
+
+
 
 ## Project Structure
 
@@ -43,6 +92,18 @@ PoliceData/
 ├── exports/
 └── tests/
 ```
+## Features
+
+* Interactive command-line interface.
+* Download crime data from the UK Police API.
+* User-selectable locations and months.
+* Dynamic MongoDB collection creation.
+* Full CRUD operations for MongoDB.
+* Crime category analysis using MongoDB aggregation.
+* JSON export with data transformation.
+* Optional upload to AWS S3.
+* Modular project structure with separate API, database, export, cloud and UI modules.
+
 
 ## File Guide
 
@@ -92,23 +153,6 @@ Run the main import-and-insert workflow:
 python app.py
 ```
 
-Check the MongoDB connection:
-
-```bash
-python test_connection.py
-```
-
-Export crime data to JSON:
-
-```bash
-python tests/test_export.py
-```
-
-Upload the exported JSON file to S3:
-
-```bash
-python tests/test_upload.py
-```
 
 ## Tests
 
@@ -117,27 +161,93 @@ The repository currently uses script-style checks rather than a full test runner
 Run the CRUD check script:
 
 ```bash
-python tests/test_crud.py
+python -m tests/test_crud.py
 ```
 
 Run the export check script:
 
 ```bash
-python tests/test_export.py
+python -m tests/test_export.py
 ```
 
 Run the upload check script:
 
 ```bash
-python tests/test_upload.py
+python -m tests/test_upload.py
 ```
 
-If you later add automated unit tests, a common next step would be to run them with `pytest`.
+Check the MongoDB connection:
+
+```bash
+python -m tests/test_connection.py
+```
+## Technologies
+
+* Python 3
+* MongoDB
+* PyMongo
+* REST APIs
+* Requests
+* AWS S3
+* Boto3
+* JSON
+* Git & GitHub
+
 
 ## Configuration
 
-The API defaults in `config.py` point to Bristol coordinates and a default month. You can change those values or pass different arguments to `get_crimes()` in `api/police_api.py` if you want data for another location or month.
+## Configuration
 
-MongoDB settings are read from environment variables in `database/mongo.py`, so local development depends on a correctly populated `.env` file.
+The application uses a combination of **`config.py`** and **environment variables** stored in **`.env`**.
 
-The export flow uses `config.py` to filter crime categories before writing JSON. The S3 upload flow expects AWS settings such as `AWS_PROFILE`, `AWS_REGION`, and `S3_BUCKET` to be available in the environment.
+### `config.py`
+
+`config.py` contains application defaults and user-selectable options, including:
+
+* UK Police API base URL.
+* Default latitude and longitude.
+* Default month.
+* Predefined locations displayed in the application menu.
+* Available months for download.
+* API request timeout.
+
+Additional locations or months can be added by updating the dictionaries and lists in `config.py` without modifying the application logic.
+
+### `.env`
+
+Sensitive configuration values are stored in a local `.env` file and are not committed to source control.
+
+Example:
+
+```env
+MONGO_URI=mongodb://localhost:27017
+DATABASE_NAME=PoliceData
+COLLECTION_NAME=CrimeData
+
+AWS_PROFILE=your-profile
+AWS_REGION=your-region-1
+S3_BUCKET=your-s3-bucket
+```
+
+These values are used to:
+
+* Connect to MongoDB.
+* Select the default MongoDB collection (when one is not provided by the application).
+* Authenticate with AWS.
+* Upload exported JSON files to Amazon S3.
+
+
+## Future Improvements
+
+Possible future enhancements include:
+
+* Support for downloading multiple locations in a single run.
+* Support for downloading multiple months.
+* Recommendation system suggesting crime categories for export.
+* Interactive dashboards and visualisations.
+* Automated scheduling of ETL jobs.
+* Semantic search over richer crime datasets using embeddings or Retrieval-Augmented Generation (RAG).
+
+### Collaborators
+
+

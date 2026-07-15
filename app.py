@@ -1,4 +1,4 @@
-from itertools import count
+
 
 from api.police_api import get_crimes
 from database.crud import count_by_category, insert_crimes
