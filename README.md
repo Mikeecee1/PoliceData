@@ -21,6 +21,7 @@ The project demonstrates a complete cloud ETL workflow using Python, MongoDB, AW
 - [Project Summary](#project-summary)
 - [Overview](#overview)
 - [ETL Workflow](#etl-workflow)
+- [ETL screenshots](#etl-screenshots)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [File Guide](#file-guide)
@@ -68,6 +69,16 @@ The application follows a complete ETL workflow.
                        ▼
                   AWS S3 Bucket
 ```
+
+### ETL screenshots
+
+![ETL1 screenshot](screenshots/ETL1.png)
+
+![ETL2 screenshot](screenshots/ETL2.png)
+
+![ETL3 screenshot](screenshots/ETL3.png)
+
+![ETL4 screenshot](screenshots/ETL4.png)
 
 
 
@@ -194,7 +205,6 @@ python -m tests/test_connection.py
 * Git & GitHub
 
 
-## Configuration
 
 ## Configuration
 

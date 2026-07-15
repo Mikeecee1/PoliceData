@@ -13,3 +13,4 @@ exports/*.json
 *.log
 
 test_connection.py
+screenshots/
