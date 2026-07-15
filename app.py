@@ -1,5 +1,6 @@
 
 
+from ai.recommendations import show_recommendation
 from api.police_api import get_crimes
 from database.crud import count_by_category, insert_crimes
 from export.json_export import export_crimes
@@ -95,23 +96,24 @@ def build_export_filename(collection_name, crime_type):
 #         print(f"{crime:<30}{row['count']:>6}")
 
 #     return counts
-
 def main():
 
     print("=" * 60)
     print("POLICE CRIME ETL PIPELINE")
     print("=" * 60)
 
-    location = choose_location()
+    # -----------------------------------
+    # User selections
+    # -----------------------------------
 
+    location = choose_location()
     print(f"Selected location: {location['name']}")
 
     month = choose_month()
-
     print(f"Selected month: {month}")
 
     default_collection = (
-    f"{location['name']}_{month.replace('-', '_')}"
+        f"{location['name']}_{month.replace('-', '_')}"
     )
 
     collection_name = choose_collection_name(default_collection)
@@ -124,10 +126,30 @@ def main():
     print(f"Month           : {month}")
     print(f"Collection Name : {collection_name}")
 
-    import_data(location["latitude"], location["longitude"], month, collection_name)
+    # -----------------------------------
+    # Extract & Load
+    # -----------------------------------
+
+    import_data(
+        location["latitude"],
+        location["longitude"],
+        month,
+        collection_name,
+    )
+
+    # -----------------------------------
+    # Analyse data
+    # -----------------------------------
+
     counts = count_by_category(collection_name)
 
+    show_recommendation(counts)
+
     selected_category = choose_export_category(counts)
+
+    # -----------------------------------
+    # Export
+    # -----------------------------------
 
     filename = build_export_filename(
         collection_name,
@@ -141,27 +163,44 @@ def main():
     )
 
     print("\n" + "=" * 60)
-    print("ETL PROCESS COMPLETED SUCCESSFULLY")
+    print("EXPORT COMPLETE")
     print("=" * 60)
-    print("\n" + "=" * 60)
-    
+
+    print(f"Records exported : {count:,}")
+    print(f"Export file      : {filename}")
+
+    # -----------------------------------
+    # Upload
+    # -----------------------------------
 
     if confirm_upload():
 
-        upload_data(filename)
-        print("EXPORT COMPLETE")
+        print("\n" + "=" * 60)
+        print("AWS S3 UPLOAD")
         print("=" * 60)
 
-        print(f"Records exported : {count:,}")
-        print(f"Export file      : {filename}")
+        upload_data(filename)
 
     else:
 
-        print("\nUPLOAD CANCELLED.")
+        print("\n" + "=" * 60)
+        print("UPLOAD CANCELLED")
         print("=" * 60)
+        print("The export file has been saved locally.")
+        print("No changes have been made to AWS S3.")
 
-    
+    # -----------------------------------
+    # Finished
+    # -----------------------------------
 
+    print("\n" + "=" * 60)
+    print("ETL PROCESS COMPLETED SUCCESSFULLY")
+    print("=" * 60)
+
+    print(f"Location   : {location['name']}")
+    print(f"Month      : {month}")
+    print(f"Collection : {collection_name}")
+    print(f"Exported   : {count:,} records")
 
 
 if __name__ == "__main__":
