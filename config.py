@@ -27,9 +27,9 @@ LOCATIONS = {
         "longitude": -1.5491,
     },
     "5": {
-        "name": "Manchester",
-        "latitude": 53.4822,
-        "longitude": -2.2426,
+        "name": "liverpool",
+        "latitude": 53.4084,
+        "longitude": -2.9916,
     },
     "6": {
         "name": "Birmingham",
