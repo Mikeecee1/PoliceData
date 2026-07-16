@@ -25,7 +25,18 @@ LOCATIONS = {
         "name": "Leeds",
         "latitude": 53.8008,
         "longitude": -1.5491,
+    },
+    "5": {
+        "name": "Manchester",
+        "latitude": 53.4822,
+        "longitude": -2.2426,
+    },
+    "6": {
+        "name": "Birmingham",
+        "latitude": 52.4862,
+        "longitude": -1.8904,
     }
+
 }
 
 AVAILABLE_MONTHS = [
@@ -33,6 +44,8 @@ AVAILABLE_MONTHS = [
     "2025-11",
     "2025-10",
     "2025-09",
+    "2025-08",
+    "2025-07",
 ]
 
 REQUEST_TIMEOUT = 10  # seconds
