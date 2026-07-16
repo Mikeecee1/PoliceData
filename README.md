@@ -72,6 +72,7 @@ The application follows a complete ETL workflow.
 
 ### ETL screenshots
 
+*ETL Process screenshots*
 ![ETL1 screenshot](screenshots/ETL1.png)
 
 ![ETL2 screenshot](screenshots/ETL2.png)
@@ -79,6 +80,10 @@ The application follows a complete ETL workflow.
 ![ETL3 screenshot](screenshots/ETL3.png)
 
 ![ETL4 screenshot](screenshots/ETL4.png)
+
+*S3 Bucket Screenshot*
+
+![s3 Bucket screenshot](screenshots/s3Bucket_crimes.png)
 
 
 
